@@ -4,5 +4,5 @@
 
 # Tableau
 
-![](tab1/power.jpg)
-![](tab2/power.jpg)
+![](snaps/tab1.jpg)
+![](snaps/tab2.jpg)
